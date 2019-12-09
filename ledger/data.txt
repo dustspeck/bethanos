@@ -1,0 +1,10 @@
+123'|lost on level 1|
+3456|lost on level 1|
+qwe|84|1234
+qwe|95|1234
+hello|96|1234
+Anonymous|0|1234
+vaibhav|91|1234
+q|50|1234
+asd|40|1234
+mnb|16|1234
