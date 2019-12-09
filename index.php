@@ -1718,7 +1718,7 @@
 					// hk.enterWorld();
 				break;
 				case 10:
-					var im = new Avenger("ironman", 2, 1, 2, 10, 0.9, 1); // identity, dodge level, attack level, attackmove level, health, damage takes, damage gives
+					var im = new Avenger("ironman", 2, 1, 2, 100, 0.9, 1); // identity, dodge level, attack level, attackmove level, health, damage takes, damage gives
 					stage.addChild(im);
 					im.enterWorld();
 				break;
