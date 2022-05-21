@@ -14,11 +14,6 @@ In the game, you get to fight each avenger from Hawkeye (level 1) to Iron Man (l
 You, being Thanos, can move left-right and shoot beams from the gauntlet. Plus, you have to choose which stone you would like to use at the same time.
 Difficulty level increases exponentially.
 
+## Screenshots
+<div> <img src="https://i.imgur.com/7mIK9wL.png" height="450px"/> <img src="https://i.imgur.com/7mIK9wL.png" height="450px"/> <img src="https://i.imgur.com/yt7AQmt.png" height="450px"/> <img src="https://i.imgur.com/SzPLbyK.png" height="450px"/> <img src="https://i.imgur.com/zfGZ9zF.png" height="450px"/> <img src="https://i.imgur.com/f6PXxH4.png" height="450px"/> <img src="https://i.imgur.com/xhJrza0.png" height="450px"/> <img src="https://i.imgur.com/cvHffT5.png" height="450px"/></div>
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
